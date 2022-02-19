@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M4vm
-- 👀 I’m interested in Discord Bots
-- 📫 How to reach me Discord: M4vm#4787
+- 👀 I like to make Discord Bots and other random apps
+- 📫 Discord: M4vm#4787
 
 <!---
 M4vm/M4vm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
