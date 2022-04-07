@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/xTk9ZOk8WmSKQpFg1W/giphy.gif" width="100"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<div id="header" align="center">
+<img src="https://komarev.com/ghpvc/?username=m4vm&style=flat-square&color=blue" alt=""/>
+</div>
 
 <h1>
   hey 
@@ -15,6 +17,10 @@
 
 <div>
     Basic HTML , Blender , Simple C# , Discord.js , Discord.py , Python , Jupyter , Git , Heroku , Photoshop , Visual Studio , Visual Studio Code , and more random stuff
+</div>
+
+<div>
+- - - - - - - - - - - - - - - -
 </div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=m4vm&show_icons=true&theme=dark)
