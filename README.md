@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-<img src="https://komarev.com/ghpvc/?username=m4vm&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=m4vm&style=flat-square&color=blue" />
 </div>
 
 <h1>
