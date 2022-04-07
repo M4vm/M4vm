@@ -30,4 +30,4 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VSC" width="40" height="40"/>&nbsp;
 </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=m4vm&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=m4vm&show_icons=true&theme=dark)
