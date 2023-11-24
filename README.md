@@ -10,8 +10,6 @@
   hello
 </h1>
 
-<div>
-- - - - - - - - - - - - - - - -
-</div>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=m4vm&show_icons=true&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=m4vm&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
