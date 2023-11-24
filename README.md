@@ -11,5 +11,6 @@
 </h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=m4vm&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
-
+<!---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=m4vm&show_icons=true&theme=dark)
+-->
