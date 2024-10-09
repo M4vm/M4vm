@@ -5,7 +5,7 @@
 <h1>
   hello
 </h1>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=m4vm&show_icons=true&theme=discord_old_blurple)]
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=m4vm&show_icons=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 [![trophy](https://github-profile-trophy.vercel.app/?username=m4vm&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
 -->
